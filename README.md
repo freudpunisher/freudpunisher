@@ -1,57 +1,12 @@
-## Hi there 👋
+# Hi, I'm Freud 👋
+Full-stack developer in Bujumbura building business software: clinic management, ticketing/POS, and fintech dashboards.
 
-# MUGISHA Freud
+**Stack:** Next.js · React · TypeScript · Django · PostgreSQL · Drizzle ORM · Docker · Nginx
 
-Full-stack developer specializing in **Next.js, React, and scalable backend systems**.
-
-I build modern SaaS applications, dashboards, and high-performance APIs.
-
-## Tech Stack
-
-Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind
-
-Backend
-- Node.js
-- Django
-- PostgreSQL
-- REST APIs
-
-DevOps
-- Docker
-- Nginx
-- Linux servers
-- CI/CD
-
-## Featured Projects
-
-Event Ticket Platform
-POS ticket selling system with QR validation.
-
-Fintech Wallet Dashboard
-Transaction tracking and analytics.
-
-Hospital Management System
-Patient, pharmacy, and inventory management.
+## Featured projects
+- **[Clinic Management System](link)**: patients, pharmacy, inventory. *Next.js, Drizzle, PostgreSQL*
+- **[Event Ticketing + QR](link)**: POS sales and QR validation. *stack*
+- **[Wallet Dashboard](link)**: transaction tracking and analytics. *stack*
 
 ## Contact
-
-Email:punishergte@gmail.com
-LinkedIn: www.linkedin.com/in/freud-mugisha-21965b211  
-Portfolio: https://freudmugisha.vercel.app
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://freudmugisha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/freud-mugisha-21965b211) · email
