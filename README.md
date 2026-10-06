@@ -2,6 +2,7 @@
 Full-stack developer in Bujumbura building business software: clinic management, ticketing/POS, and fintech dashboards.
 
 **Stack:** Next.js · React · TypeScript · Django · PostgreSQL · Drizzle ORM · Docker · Nginx
+**Backend (Java):** Spring Boot (learning, building a REST API project)
 
 ## Featured projects
 - **[Clinic Management System](link)**: patients, pharmacy, inventory. *Next.js, Drizzle, PostgreSQL*
