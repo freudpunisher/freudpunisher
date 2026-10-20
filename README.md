@@ -19,4 +19,4 @@ Full-stack developer in Bujumbura, Burundi, building business and banking softwa
 
 ## 📫 Contact
 
-[Portfolio](https://freudmugisha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/freud-mugisha-21965b211) · your-email@example.com
+[Portfolio](https://freudmugisha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/freud-mugisha-21965b211) · punishergte@gmail.com
