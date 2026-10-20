@@ -8,7 +8,7 @@ Full-stack developer in Bujumbura, Burundi, building business and banking softwa
 |---|---|
 | **Backend** | Spring Boot (Java), Django (Python) |
 | **Frontend** | Next.js, React, TypeScript |
-| **Database** | PostgreSQL, Drizzle ORM |
+| **Database** | PostgreSQL, Mysql, Oracle |
 | **DevOps** | Docker, Nginx |
 
 ## 🚀 Featured projects
